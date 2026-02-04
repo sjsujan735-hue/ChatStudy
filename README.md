@@ -122,10 +122,12 @@ conn.close()
 ```
 ## Output:
 ## Client:
-![Uploading Screenshot 2026-02-04 112918.png…]()
+<img width="1198" height="314" alt="Screenshot 2026-02-04 112918" src="https://github.com/user-attachments/assets/62bb6d55-2436-4185-a5b7-1e50e281affb" />
+
 
 ## Server:
-![Uploading Screenshot 2026-02-04 112937.png…]()
+<img width="1199" height="379" alt="Screenshot 2026-02-04 112937" src="https://github.com/user-attachments/assets/3ba83b69-8016-488d-8559-01f7bbb8e566" />
+
 
 
 
